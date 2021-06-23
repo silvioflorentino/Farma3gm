@@ -1,0 +1,1 @@
+<img src="<?php echo base_url('img/farmacia_img.gif')?>">

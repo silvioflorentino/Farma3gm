@@ -1,0 +1,12 @@
+#formCad{
+margin-top: 50px;
+}
+
+#formulario{
+    padding: 50px;
+    margin: auto;
+    width: 700px;
+    height: 400px;
+    background-color: aqua;
+    border-radius: 20px;
+}
